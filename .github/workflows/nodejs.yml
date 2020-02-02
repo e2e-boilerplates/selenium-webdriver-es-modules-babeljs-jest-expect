@@ -1,9 +1,9 @@
-name: selenium-webdriver-es6-modules-babeljs-jasmine-expect
+name: selenium-webdriver-es6-modules-babeljs-jest-expect
 
-on: 
+on:
   push:
   schedule:
-    - cron: '0 0 1-31/2 * *' 
+    - cron: '0 0 1-31/2 * *'
 
 jobs:
   build:
