@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
-=======
-  "author": "Girma Nigusse <xgirma@gmail.com>",
->>>>>>> 7242010e53fed8bd1a13bb3224386318cd559c43
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-expect/issues"
   },
