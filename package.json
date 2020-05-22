@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-expect/issues"
   },
   "dependencies": {
-    "chromedriver": "81.0.0",
+    "chromedriver": "83.0.0",
     "jest": "26.0.1",
     "selenium-webdriver": "4.0.0-alpha.7",
     "webdriver-manager": "12.1.7"
@@ -52,6 +52,7 @@
   "license": "MIT",
   "lint-staged": {
     "*.{js,json,md}": [
+      "eslint --fix",
       "prettier --write"
     ]
   },
